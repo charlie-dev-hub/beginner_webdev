@@ -1,0 +1,51 @@
+.Pink{
+    background-color: orangered;
+    text-align: center;
+    color: white;
+    padding: 5%;
+}
+.line{
+    width: 5%;
+}
+.service{
+    text-align: center;
+}
+.img > img {
+    width: 33%;
+    height: 50%;
+    float: left;
+}
+.ash{
+    background-color:rgb(80, 81, 82);
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+    height: 200px;
+    clear: left;
+}
+.let{
+    text-align: center;
+}
+.my{
+    text-align: center;
+}
+.nav{
+    text-align: right;
+}
+.download{
+    bottom: 20%;
+}
+.top{
+    background-image: url(..img\IMG_0565.JPG);
+}
+.diamond{
+    display: inline;
+    /* text-align: center; */
+}
+.laptop{
+    display: inline;
+}
+.icon{
+    display: inline-block;
+    /* padding: 20px; */
+}
